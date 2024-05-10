@@ -414,7 +414,7 @@ header .navbar ul li a:hover{
 }
 @keyframes dsa{
     100%{
-        width: 60%;
+        width: 40%;
     }
 }
 .skills .row .progress .java .anim{
